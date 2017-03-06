@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Localgroup Studio"
 title_separator          : "-"
 name                     : "Localgroup"
-description              : "Co-working space located in Bellingham, Washington dedicated to the practice, presentation, and discussion of design in its many facets"
+description              : "Co-working space located in Bellingham, Washington dedicated to the practice, presentation, and discussion of design in its many facets."
 url                      : http://localgroup.studio
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Localgroup"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Co-working space located in Bellingham, Washington dedicated to the practice, presentation, and discussion of design in its many facets."
+  bio              : "Co-working space dedicated to the practice, presentation, and discussion of design in its many facets."
   location         : "Bellingham, Washington"
   email            :
   uri              :
